@@ -1,0 +1,24 @@
+{
+    "books":[
+        {
+            "id":1,
+            "title":"Things Fall Apart",
+            "assign":24
+        },
+        {
+            "id":2,
+            "title":"Rich dad poor dad",
+            "assign":24
+        },
+        {
+            "id":3,
+            "title":"Atomic habits",
+            "assign":24
+        },
+        {
+            "id":4,
+            "title":"The power of now",
+            "assign":24
+        }
+    ]
+}

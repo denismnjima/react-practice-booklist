@@ -1,0 +1,12 @@
+.book
+{
+  background-color: orange;
+  width: 200px;
+  padding: 20px;
+  min-height: 150px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+}
